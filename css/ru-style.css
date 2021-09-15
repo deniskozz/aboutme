@@ -87,7 +87,7 @@ nav a:hover{
 
 .mu-photo{
     width: 30%;
-    borderr: 10;
+    border-radius: 10px;
 }
 
 h1{
