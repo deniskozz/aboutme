@@ -71,7 +71,7 @@ img{
 }
 
 .about{
-    background-color: rgb(206, 206, 206);
+    background-color: #F6F6F6;
     padding: 50px;
     text-align: center;
 
@@ -83,7 +83,7 @@ h2{
 }
 
 .about p{
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .about p:last-child{
